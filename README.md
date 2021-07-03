@@ -1,6 +1,6 @@
 # flutter_sofi
 
-A new Flutter project.
+This is one of the UI screen of SOFI app(a personal finance application) that is launching soon. This UI screen is created for practice in Flutter and not yet responsive so it may not be fit on your screen. 
 
 ## Getting Started
 
