@@ -2,6 +2,13 @@
 
 This is one of the UI screen of SOFI app(a personal finance application) that is launching soon. This UI screen is created for practice in Flutter and not yet responsive so it may not be fit on your screen. 
 
+## Screenshot
+<table>
+<tr>
+    <td><img src="https://github.com/himanshugarg08/flutter_sofi/blob/main/Screenshot_1625307960.png" width=432 height=816 padding = "20"/></td>
+  </tr>
+</table>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
