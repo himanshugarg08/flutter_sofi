@@ -5,7 +5,7 @@ This is one of the UI screen of SOFI app(a personal finance application) that is
 ## Screenshot
 <table>
 <tr>
-    <td><img src="https://github.com/himanshugarg08/flutter_sofi/blob/main/Screenshot_1625307960.png" width=432 height=816 padding = "20"/></td>
+    <td><img src="https://github.com/himanshugarg08/flutter_sofi/blob/main/Screenshot_1625307960.png" width=216 height=408 padding = "20"/></td>
   </tr>
 </table>
 
